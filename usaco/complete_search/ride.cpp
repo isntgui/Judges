@@ -1,9 +1,3 @@
-/*
-ID: agnelos1
-TASK: ride
-LANG: C++
-*/
-
 #include<bits/stdc++.h>
 using namespace std;
 
@@ -29,4 +23,5 @@ int main() {
 	else
 		fout << "STAY\n";
 	return 0;
+
 }
