@@ -1,9 +1,3 @@
-/*
-ID: agnelos1
-PROG: friday
-LANG: C++
-*/
-
 #include <bits/stdc++.h>
 using namespace std;
 
