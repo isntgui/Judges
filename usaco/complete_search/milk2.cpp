@@ -1,9 +1,3 @@
-/*
-ID: agnelos1
-PROG: milk2
-LANG: C++
-*/
-
 #include<bits/stdc++.h>
 using namespace std;
 
@@ -42,3 +36,4 @@ int main() {
     fout << ans1 << " " << ans2 << "\n";
     return 0;
 }
+
