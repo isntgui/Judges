@@ -1,10 +1,4 @@
-/*
-ID: agnelos1
-PROG: transform
-LANG: C++
-*/
-
-#include<bits/stdc++.h>
+#include <bits/stdc++.h>
 using namespace std;
 
 
@@ -95,4 +89,5 @@ int32_t main() {
         fout << "6\n";
     else
         fout << "7\n";
+
 }
