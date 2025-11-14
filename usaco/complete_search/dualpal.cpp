@@ -1,9 +1,3 @@
-/*
-	ID: agnelos1
-	PROG: dualpal
-	LANG: C++
-*/
-
 #include <bits/stdc++.h>
 using namespace std;
 
