@@ -1,8 +1,3 @@
-/*
-	ID: agnelos1
-	PROG: gift1
-	LANG: C++
-*/
 #include <bits/stdc++.h>
 using namespace std;
 
