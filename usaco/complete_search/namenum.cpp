@@ -1,9 +1,3 @@
-/*
-	ID: agnelos1
-	PROG: namenum
-	LANG: C++
-*/
-
 #include<bits/stdc++.h>
 using namespace std;
 
@@ -73,4 +67,5 @@ int main() {
 	}
     else
     	fout << "NONE\n";
+
 }
